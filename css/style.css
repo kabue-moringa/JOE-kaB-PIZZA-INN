@@ -16,3 +16,12 @@ h2{
     text-align: center;
     color: black;
 }
+.pa{
+    text-align: center;
+    align-items: center;
+}
+.menu-overlay{
+    background-image: url(/images/center.jpg);   
+    padding: 20px;
+    margin-top: 20px;
+}
