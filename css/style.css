@@ -3,7 +3,7 @@
     padding: 0;
 }
 .landing{
-    background-image: url(./landing.jpg);
+    background-image: url(/images/landing.jpg);
     height:500px ;
     background-size: cover;
     background-position: center center;
@@ -38,8 +38,21 @@ ul{
     line-height: 50px;
 }
 
+.contact-overlay{
+    background-image: url(/images/footer.jpg);
+    color: chartreuse;
+    height: 300px;
+    
+}
 .cont{
     text-align: center;
     align-items: center;
     margin-left: 500px;
+}
+.email-info{
+    text-align: center;
+    color: chartreuse;
+}
+.btn click-me{
+    font-size: large;
 }
