@@ -3,7 +3,7 @@
     padding: 0;
 }
 .landing{
-    background-image: url(/images/landing.jpg);
+    background-image: url(/landing.jpg);
     height:500px ;
     background-size: cover;
     background-position: center center;
