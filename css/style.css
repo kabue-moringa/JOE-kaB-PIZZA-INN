@@ -21,7 +21,7 @@ h2{
     align-items: center;
 }
 .menu-overlay{
-    background-image: url(/images/center.jpg);   
+    background-image: url(/center.jpg);   
     padding: 20px;
     margin-top: 20px;
 }
@@ -39,7 +39,7 @@ ul{
 }
 
 .contact-overlay{
-    background-image: url(/images/footer.jpg);
+    background-image: url(/footer.jpg);
     color: chartreuse;
     height: 300px;
     width: 900px;
