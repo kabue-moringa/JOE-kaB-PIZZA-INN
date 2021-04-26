@@ -3,7 +3,7 @@
     padding: 0;
 }
 .landing{
-    background-image: url(/landing.jpg);
+    background-image: url(../landing.jpg);
     height:500px ;
     background-size: cover;
     background-position: center center;
@@ -21,7 +21,7 @@ h2{
     align-items: center;
 }
 .menu-overlay{
-    background-image: url(/center.jpg);   
+    background-image: url(../center.jpg);   
     padding: 20px;
     margin-top: 20px;
 }
@@ -39,7 +39,7 @@ ul{
 }
 
 .contact-overlay{
-    background-image: url(/footer.jpg);
+    background-image: url(../footer.jpg);
     color: chartreuse;
     height: 300px;
     width: 900px;
